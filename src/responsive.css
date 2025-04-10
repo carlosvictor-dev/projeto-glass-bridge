@@ -1,0 +1,12 @@
+@media(max-width: 768px) {
+    main .imagem {
+        object-position: center;
+    }
+
+    main .container {
+        padding: 20px;
+        position: absolute;
+        bottom: -100px;
+    }
+
+}
